@@ -11,7 +11,7 @@
 - [Questions](#questions)
 
 ## Installation
-This application will be deployed you Heroku, you will simply click on the link and it will route you to the function app.
+This application will be deployed you Heroku, you will simply click on the link and it will route you to the functioning app.
 
 ## Usage
 
