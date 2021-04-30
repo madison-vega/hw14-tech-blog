@@ -1,6 +1,7 @@
 # hw14-tech-blog
 
 ## Description
+This is an application, built with the MVC paradigm that allows you to post and comment your thoughts and ideas about technology!  You can post about new technological advancements, your ideas, or even simple brainstorms.  You can even post questions and make or receive comments on those posts.  It is important to be able to discuss these topics in a casual setting to propogate more knowledge within the community.
 
 ## Table of Contents
 
@@ -14,6 +15,7 @@
 This application will be deployed you Heroku, you will simply click on the link and it will route you to the functioning app.
 
 ## Usage
+Once on the homepage you will be able to follow the links at the top depending on what you would like to do.  You can sign up or sign in.  You will have to be registered and logged in if you would like to make new posts or comments, but you will be able to view posts if not.  
 
 ## Credits
 
