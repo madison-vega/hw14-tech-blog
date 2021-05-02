@@ -13,6 +13,7 @@ This is an application, built with the MVC paradigm that allows you to post and 
 
 ## Installation
 This application will be deployed you Heroku, you will simply click on the link and it will route you to the functioning app.
+[Heroku App](https://frozen-headland-03906.herokuapp.com/)
 
 ## Usage
 Once on the homepage you will be able to follow the links at the top depending on what you would like to do.  You can sign up or sign in.  You will have to be registered and logged in if you would like to make new posts or comments, but you will be able to view posts if not.  
